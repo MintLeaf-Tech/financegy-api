@@ -197,11 +197,5 @@ This API uses **SlowAPI** to protect endpoints from abuse.
 - [x] Centralized error handling
 - [x] Rate limiting
 - [x] Docker support
+
 - [ ] API-level caching (Redis)
-- [ ] Cloud deployment (Render)
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
